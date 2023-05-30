@@ -1,7 +1,7 @@
 Run main.py
 
-Exit code references:
-    0: No error
-    1: Successfull Operation
-    2: Invalid Input 
-    4: First user, File not found
+Exit code references:\n
+    0: No error\n
+    1: Successfull Operation\n
+    2: Invalid Input \n
+    4: First user, File not found\n
